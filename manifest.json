@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "DeletusMetallica",
+  "name": "DeletusMetallica",
+  "author": "Urki",
+  "version": "1.0.0",
+  "description": "BSIPA plugin to disable the Metallica logo in 1.40",
+  "gameVersion": "1.40.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}
